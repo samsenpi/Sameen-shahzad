@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameen Shahzad</h1>
-<h3 align="center">🚀 AI and blockchain enthusiast on a perpetual journey of learning and coding.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsenpi" alt="samsenpi" /></a> </p>
+<h3 align="center">🚀 AI and ML enthusiast on a perpetual journey of learning and coding.</h3>
 
 - 🔭 I’m currently working on **learning javascript and java for web development**
 
