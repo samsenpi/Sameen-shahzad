@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and java for web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samsenpi/calculator](https://github.com/samsenpi/calculator)
-
-- 💬 Ask me about **python ,3D,C++**
+- 💬 Ask me about **python ,3D,C++,java**
 
 - 📫 How to reach me **een1080sam@gamil.com**
 
